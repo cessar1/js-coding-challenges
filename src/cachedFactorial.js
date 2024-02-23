@@ -1,0 +1,6 @@
+
+const factorial = (n) => {
+     
+
+    return 
+}
